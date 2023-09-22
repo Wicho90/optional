@@ -25,5 +25,4 @@
 
 # Ignore Go module cache and vendor directory
 /go.sum
-/go.mod
 /vendor/
