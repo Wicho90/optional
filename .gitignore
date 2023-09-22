@@ -24,5 +24,4 @@
 *.code-workspace
 
 # Ignore Go module cache and vendor directory
-/go.sum
 /vendor/
