@@ -1,0 +1,29 @@
+# Ignore Go binary files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Ignore IntelliJ IDEA files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Ignore compiled Go files
+*.test
+*.prof
+*.out
+
+# Ignore .DS_Store files on macOS
+.DS_Store
+
+# Ignore config files specific to some IDEs/editors
+.vscode/
+*.code-workspace
+
+# Ignore Go module cache and vendor directory
+/go.sum
+/go.mod
+/vendor/
